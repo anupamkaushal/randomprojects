@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 	<classpathentry kind="lib" path="C:/libs/spring-framework-4.1.6.RELEASE/libs/spring-aop-4.1.6.RELEASE.jar"/>
 	<classpathentry kind="lib" path="C:/libs/spring-framework-4.1.6.RELEASE/libs/spring-aop-4.1.6.RELEASE-javadoc.jar"/>
 	<classpathentry kind="lib" path="C:/libs/spring-framework-4.1.6.RELEASE/libs/spring-aop-4.1.6.RELEASE-sources.jar"/>
@@ -63,5 +63,8 @@
 	<classpathentry kind="lib" path="C:/libs/spring-framework-4.1.6.RELEASE/libs/spring-websocket-4.1.6.RELEASE-javadoc.jar"/>
 	<classpathentry kind="lib" path="C:/libs/spring-framework-4.1.6.RELEASE/libs/spring-websocket-4.1.6.RELEASE-sources.jar"/>
 	<classpathentry kind="lib" path="C:/libs/commons-logging-1.1.1-bin/commons-logging-1.1.1/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-framework-4.1.6.RELEASE/libs/aspectjrt-1.6.11.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-framework-4.1.6.RELEASE/libs/aopalliance-.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-framework-4.1.6.RELEASE/libs/aspectj-weaver.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
